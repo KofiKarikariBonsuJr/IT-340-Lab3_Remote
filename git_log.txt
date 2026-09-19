@@ -1,0 +1,25 @@
+commit 7fb61b5fe73a88926d73707e3769257a5aa31254
+Author: Kofi <kkb@njit.edu>
+Date:   Sat Sep 19 02:42:30 2026 +0000
+
+    Revert "truncated group and added newtext"
+    
+    This reverts commit 09f40df3f88b6e3ed81a32b316e7683252bc4d5a.
+
+commit 09f40df3f88b6e3ed81a32b316e7683252bc4d5a
+Author: Kofi <kkb@njit.edu>
+Date:   Sat Sep 19 02:39:16 2026 +0000
+
+    truncated group and added newtext
+
+commit 226bc32a02d6ed00c82bf16945b231a1662f228a
+Author: Kofi <kkb@njit.edu>
+Date:   Sat Sep 19 02:26:57 2026 +0000
+
+    Vandalised os-release
+
+commit 6e6e0758930891ba2a3172da7f1d4555f9d58556
+Author: Kofi <kkb@njit.edu>
+Date:   Sat Sep 19 02:22:30 2026 +0000
+
+    First commit
